@@ -1,2 +1,2 @@
-# Intern-Career
-InternCareer internship in PowerBi
+#Intern-Career
+Internship in PowerBi
